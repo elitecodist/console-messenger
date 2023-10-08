@@ -4,5 +4,5 @@
  
  NOTE: This app only creates a local network and is not for use on public ones. It is for demonstration purposes only.
 
- Exampel screenshot:
-![Alt text](/images/Example.png)
+ Example screenshot:
+![alt text](/images/Example.png)
